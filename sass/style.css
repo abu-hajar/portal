@@ -5,7 +5,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #4bb4da;
+  background-color: #fff;
   font-size: 16px;
 }
 
@@ -24,8 +24,9 @@ h6 {
   align-self: center;
   margin-top: 30px;
   padding: 1rem;
-  /* background-color: #fff; */
-  border-radius: 30px;
+  background-color: #4bb4da;
+  border-radius: 26px;
+  /* border-radius: 30px;
   background: #4bb4da;
   background-color: #fff;
   box-shadow:  17px 17px 34px #AEC6CF,
@@ -33,7 +34,7 @@ h6 {
   /* border-radius: 26px;
   background: #e0e0e0;
   box-shadow:  13px 13px 26px #c3c3c3,
-                -13px -13px 26px #fdfdfd;
+                -13px -13px 26px #fdfdfd; */
 */ } 
 
 .data {
