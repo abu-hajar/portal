@@ -1,7 +1,7 @@
 class Auth {
      // setup the class and hide the body by default
     constructor() {
-        document.querySelector("body").style.display = "none";
+        document.querySelector("body").style.display = ;
         const auth = localStorage.getItem("auth");
         this.validateAuth(auth);
     }
