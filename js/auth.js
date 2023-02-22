@@ -10,7 +10,7 @@ class Auth {
         if (auth != 1) {
             window.location.replace("/");
         } else {
-            document.querySelector("body").style.display = "block";
+            document.querySelector("body").style.display = ;
         }
     }
     // will remove the localStorage item and redirect to login  screen
